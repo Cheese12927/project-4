@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(8, 0, 255);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight:400px;
+    font-size: 24px;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   background:#00FFD5 ;
+   color: black;
+}
+
+footer a {
+    
+}
+
+footer p {
+    border-radius: 10px;
+}
+
+header img { 
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+main{
+    background: #00EAFF;
+    color: black;
+}
+
+section{
+    max-width: 1100px;
+    margin: 0px auto;
+    padding: 0px auto;
+    align-items: center;
+}
+
+
+
+.pubg{
+    border: double 5px solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+footer img{
+    width: 150px;
+    height: 50px; 
+
+}
+    
+
